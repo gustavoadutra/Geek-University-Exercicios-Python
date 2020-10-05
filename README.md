@@ -1,4 +1,4 @@
-<img src="https://www.python.org/static/img/python-logo.png"/><img src="https://www.geekuniversity.com.br/static/images/logo2.439bc996c2a0.png/>
+<img src="https://www.python.org/static/img/python-logo.png"/><img src="https://www.geekuniversity.com.br/static/images/logo2.439bc996c2a0.png"/>
 #      Geek-University-Exercicios-Python
 Exercícios feitos apartir do curso na Udemy "Programação em Python do Básico ao Avançado" do Geek University.
 
